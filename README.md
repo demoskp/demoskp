@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demoskp" alt="demoskp" /></a> </p>
 
-- 🔭 I currently work at [Hypermile](https://www.hypermile.ai/)
+- 🔭 I currently consult at [Petsas Consulting](https://www.petsas.consulting/)
 
 - 🌱 I’m currently learning **Django**
 
